@@ -1,0 +1,22 @@
+.close {
+	color:#6600ff;
+}
+.junto div { 
+  float:left;
+  overflow:auto;
+}
+.capitular::first-letter{
+	font-size: 3em;
+	float:left;
+	margin-right:5px;
+	font-weight:bold;
+	color: purple;
+	line-height:1;
+}
+.clear-float {
+	clear:both;
+}
+.no-float {
+	float:None;
+	clear:both;
+}
